@@ -10,3 +10,5 @@
 - Data Analytics Essentials - Cisco Networking Academy           October 2023
 - Project Management - Saylor Academy                            October 2023
 - Data Analysis & Visualization Course - AptLearn                September 2023
+- BACHELOR OF ARTS - University of Abuja                           August 2018
+- Diploma In Law - University of Abuja                            March 2008

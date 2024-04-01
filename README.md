@@ -1,2 +1,3 @@
 # Data-Analyst
-Data Analyst Portfolio
+
+#### Technical Skills: Python, SQL, R, Excel, Google Sheets, Tableau, PowerBI

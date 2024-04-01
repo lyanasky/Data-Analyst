@@ -43,7 +43,9 @@
 -	Utilized R to analyze 8000 datasets of Bellabeat product: Bella app and analyze smart device fitness data to gain insight into how customers use their devices.
 -	Recommended strategies to Bellabeat executive teams to improve marketing strategies.
 -	Aggregated and visualized the data by using Tidyverse, here, lubridate, janitor, skimr
-  
+
+  ![Bellabeat](/assets/Bellabeat-logo/.png)
+
 ### CYCLISTIC BIKE SHARE CASESTUDY – Google Data Analytics Capstone Project                                 	(_Dec 2023_)
 -	Utilized Python and My SQL to analyze six million datasets collected from the people living in Chicago with about 2.7 million people to gain insight into how casual members and casual riders differ, why casual riders would buy a membership, and how digital media could affect their marketing tactics.
 -	Provided technical insights by recommending marketing strategies for the company by providing promotions for riders, creating a mobile application, and a point award incentive system.

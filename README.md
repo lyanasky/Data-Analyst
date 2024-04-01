@@ -58,6 +58,7 @@
 -	Transformed and filtered data using FORMULAS AND FUNCTIONS to improve reporting processes.
 -	Loaded and visualized data by creating an Excel dashboard to identify key business intelligence that can improve sales performance.
 
+
 ## Social Links
 <a href="https://https://www.linkedin.com/in/eliana-walters-5614751a2/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/eliana_walters?t=39yRsQHpWd-j4S9RBHVOnw&s=09"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white" /></a>

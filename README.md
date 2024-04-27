@@ -58,6 +58,7 @@
 
 -	### PROJECTS
 -	[Bellabeat Project](https://lyanasky.github.io/bellabeat_project/)
+-	[Cyclistic Bikeshare](https://github.com/lyanasky/Cyclistic-Bikeshare)
 
 ## Social Links
 <a href="https://https://www.linkedin.com/in/eliana-walters-5614751a2/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>

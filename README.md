@@ -43,8 +43,8 @@
 -	Utilized R to analyze 8000 datasets of Bellabeat product: Bella app and analyze smart device fitness data to gain insight into how customers use their devices.
 -	Recommended strategies to Bellabeat executive teams to improve marketing strategies.
 -	Aggregated and visualized the data by using Tidyverse, here, lubridate, janitor, skimr
-
   ![Bellabeat](/assets/Bellabeat-logo.webp)
+ 	![Bellabeat Project](https://lyanasky.github.io/bellabeat_project/)
 
 ### CYCLISTIC BIKE SHARE CASESTUDY – Google Data Analytics Capstone Project                                 	(_Dec 2023_)
 ![Cyclistic](/assets/bike_share.png)

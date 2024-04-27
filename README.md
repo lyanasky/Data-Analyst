@@ -47,12 +47,12 @@
   ![Bellabeat](/assets/Bellabeat-logo.webp)
 
 ### CYCLISTIC BIKE SHARE CASESTUDY – Google Data Analytics Capstone Project                                 	(_Dec 2023_)
+![Cyclistic](/assets/Cyclistic Bike-share.png)
 -	Utilized Python and My SQL to analyze six million datasets collected from the people living in Chicago with about 2.7 million people to gain insight into how casual members and casual riders differ, why casual riders would buy a membership, and how digital media could affect their marketing tactics.
 -	Provided technical insights by recommending marketing strategies for the company by providing promotions for riders, creating a mobile application, and a point award incentive system.
 -	Utilized MY SQL to CLEAN the datasets using TRIM (), LTRIM (), RTRIM (), LOWER (), UPPER (), CONCAT (), CASE (), SUBSTRING ().
 
 ### BIKE SALES ANALYSIS DASHBOARD– Personal Project 	(_June 2023_)
-![Cyclistic](/assets/Cyclistic Bike-share.png)
 -	Created Pivot Tables to summarize, analyze, and visualize the bike sales data.
 -	Transformed and filtered data using FORMULAS AND FUNCTIONS to improve reporting processes.
 -	Loaded and visualized data by creating an Excel dashboard to identify key business intelligence that can improve sales performance

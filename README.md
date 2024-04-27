@@ -44,7 +44,6 @@
 -	Recommended strategies to Bellabeat executive teams to improve marketing strategies.
 -	Aggregated and visualized the data by using Tidyverse, here, lubridate, janitor, skimr
   ![Bellabeat](/assets/Bellabeat-logo.webp)
- 	![Bellabeat Project](https://lyanasky.github.io/bellabeat_project/)
 
 ### CYCLISTIC BIKE SHARE CASESTUDY – Google Data Analytics Capstone Project                                 	(_Dec 2023_)
 ![Cyclistic](/assets/bike_share.png)
@@ -56,6 +55,9 @@
 -	Created Pivot Tables to summarize, analyze, and visualize the bike sales data.
 -	Transformed and filtered data using FORMULAS AND FUNCTIONS to improve reporting processes.
 -	Loaded and visualized data by creating an Excel dashboard to identify key business intelligence that can improve sales performance
+
+-	## PROJECTS
+-		[Bellabeat Project](https://lyanasky.github.io/bellabeat_project/)
 
 ## Social Links
 <a href="https://https://www.linkedin.com/in/eliana-walters-5614751a2/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>

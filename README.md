@@ -56,8 +56,8 @@
 -	Transformed and filtered data using FORMULAS AND FUNCTIONS to improve reporting processes.
 -	Loaded and visualized data by creating an Excel dashboard to identify key business intelligence that can improve sales performance
 
--	## PROJECTS
--		[Bellabeat Project](https://lyanasky.github.io/bellabeat_project/)
+-	### PROJECTS
+-	[Bellabeat Project](https://lyanasky.github.io/bellabeat_project/)
 
 ## Social Links
 <a href="https://https://www.linkedin.com/in/eliana-walters-5614751a2/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>

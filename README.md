@@ -51,13 +51,11 @@
 -	Provided technical insights by recommending marketing strategies for the company by providing promotions for riders, creating a mobile application, and a point award incentive system.
 -	Utilized MY SQL to CLEAN the datasets using TRIM (), LTRIM (), RTRIM (), LOWER (), UPPER (), CONCAT (), CASE (), SUBSTRING ().
 
-![Cyclistic](/assets/Cyclistic-Bike-share.png)
-
 ### BIKE SALES ANALYSIS DASHBOARD– Personal Project 	(_June 2023_)
+![Cyclistic](/assets/Cyclistic Bike-share.png)
 -	Created Pivot Tables to summarize, analyze, and visualize the bike sales data.
 -	Transformed and filtered data using FORMULAS AND FUNCTIONS to improve reporting processes.
--	Loaded and visualized data by creating an Excel dashboard to identify key business intelligence that can improve sales performance.
-
+-	Loaded and visualized data by creating an Excel dashboard to identify key business intelligence that can improve sales performance
 
 ## Social Links
 <a href="https://https://www.linkedin.com/in/eliana-walters-5614751a2/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>

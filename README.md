@@ -51,7 +51,7 @@
 -	Provided technical insights by recommending marketing strategies for the company by providing promotions for riders, creating a mobile application, and a point award incentive system.
 -	Utilized MY SQL to CLEAN the datasets using TRIM (), LTRIM (), RTRIM (), LOWER (), UPPER (), CONCAT (), CASE (), SUBSTRING ().
 
-![Cyclistic](/assets/Cyclistic/Bike-share.png)
+![Cyclistic](/assets/Cyclistic-Bike-share.png)
 
 ### BIKE SALES ANALYSIS DASHBOARD– Personal Project 	(_June 2023_)
 -	Created Pivot Tables to summarize, analyze, and visualize the bike sales data.

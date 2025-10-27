@@ -1,44 +1,61 @@
-# Data-Analyst
+# IT Business-Analyst
 
-#### Technical Skills: Python, SQL, R, Excel Sheets, Google Sheets, Tableau, PowerBI
+#### Programming Languages SQL (MySQL), R, Python, Javascript, React JS, HTML, and CSS
+
+#### Business Analysis: Requirement Gathering, process mapping, Gap Analysis, Use Cases, User Stories, SWOT Analysis
+
+#### Business Analysis Tools, Visio, Jira for backlog management, Balsamic, Lucid chart, Confluence, BPMN (Business Process Model and Notation)
+
+#### Methodologies: Agile, Scrum, Waterfall, Kanban
+
+#### Data Visualization Tableau, Microsoft Power BI, Google Analytics
+
+#### Domain Knowledge: Software Development
+
+#### Communication: Technical Writing, Presentation Skills, Negotiation, Conflict Resolution, Process Workshops, Facilitation.
+
+#### Soft Skills: Problem-Solving, Critical Thinking, Adaptability, Team Collaboration, Time Management, Attention to Detail, Emotional Intelligence
+
 
 ## Education
+- Scrum Product Owner                                                (_June 2025_)
+- Scrum Master                                                       (_June 2025_)
+- Business Analyst / Project Management Certification                (_April 2025_)
 - Google Advanced Data Analytics Professional Certificate |          (_March 2024_)
 - From Data Collection to Data Use | Philanthropy University         (_December 2023_)
 - Planning for Monitoring and Evaluation | Philanthropy University   (_December 2023_)
 - Data Analytics Professional certificate | Google                   (_December 2023_)
 - Data Analytics Essentials | Cisco Networking Academy               (_October 2023)
-- Project Management  |Saylor Academy                                (_October 2023)
+- Project Management/ Hr Management  |Saylor Academy                  (_October 2023)
 - Data Analysis & Visualization Course | AptLearn                    (_September 2023)
 - BACHELOR OF ARTS | University of Abuja                             (_August 2018)
 - Diploma In Law | University of Abuja                               (_March 2008)
 
 ## Work Experience
-**Customer Service Executive – Impeccable Homes Nigeria	                                                                (_Jan 2023 - November 2023_)**
--	Analyzing customer data behavior and recommended targeted marketing strategies.
--	Effectively Implemented and communicated daily workflow procedures to team members resulting in a 15% increase in sales and leasing in the company.
+**IT Business Analyst – Tiege Consult                                                                  (_Feb 2024 - Present_)**                                          
+-	Managed requirements gathering sessions with stakeholders, resulting in a 25% reduction in project scope creep
+-	Revamped a payment log from an Excel-based format to a structured, digital platform, resulting in a 20% increase in customer satisfaction
+- Developed business process workflows and documentation to enhance operational clarity with a 30% success rate
   
-**International Humanitarian and Legal aid Worker – ROYAL MIFADELO GLOBAL FOUNDATION  (_February 2018 - October 2023_)**
--	Increased client satisfaction by providing prompt and accurate legal research services.
--	Enhanced attorney efficiency through thorough document review and organization for multiple high-profile cases.
--	Streamlined office operations by implementing new filing systems and optimizing administrative processes.
--	Assisted in successful case resolution by drafting pleadings, motions, and briefs under attorney supervision.
-  
-**Administrative Manager   – Wallyx Allied Services Ltd                                                            (_February 2018 - December 2023_)**
--	Improved office efficiency by implementing streamlined administrative processes and procedures.
--	Enhanced team productivity by providing ongoing professional development opportunities and regular performance feedback.
--	Ensured smooth daily operations with timely completion of all essential administrative tasks and responsibilities.
--	Reduced operational costs through effective management of staff schedules, resources, and vendor relationships.
--	Responsible for implementing the daily workflow and running of the organization.
--	Management of staff productivity of the company.
+**Junior Business Analyst – Albos Consulting                                              (_ Aug 2021-Dec 2023_)**                                              
+-	Analyzed and optimized business processes, resulting in a 15% increase in efficiency
+-	Led requirement gathering for a large software project, achieving 10% on-time delivery and reducing costs by 14%
+-	performed data analysis and reporting for strategic decisions, resulting in a 15% increase in market share and revenue
 
-**Intern, Administrative Assistant Remote – MARS CREATION                                                             (_March 2021 – September 2021_)**
--	Enhanced intern productivity by assisting with project coordination and providing ongoing support.
--	Streamlined office processes for improved efficiency and time management through regular organization and filing.
--	Contributed to a positive team environment by collaborating with fellow interns on group projects and presentations.
--	Supported staff members in their daily tasks, reducing workload burden and allowing for increased focus on higher-priority assignments
+**Administrative Manager   – Wallyx Allied Services LTD                                       (_ Dec 2018- Dec 2020_)**                                                                       
+-	Directed process improvements that streamlined administrative procedures, increasing office efficiency by 15% 
+-	Implemented document management systems, streamlining workflow efficiency by 60% and enhancing data accessibility
 
+**Front-end Developer – Mars                                                                    (_Feb 2021- July 2021_)**                                               
+- Executed user-friendly interfaces, improving customer engagement by 40%
+-	Collaborated with UX designers and developers to implement responsive designs, resulting in an 80% user-friendly experience
+                                                           
 ## Projects
+### SYSTEM TRANSFORMATION 	                                                                    (_Jan 2025_)
+-	Upgraded the payment log system, enhancing efficiency and boosting client satisfaction by 20%
+-	Facilitated the business processes, improving efficiency by 15% and reducing costs by 14%
+-	Designed user requirements for a responsive e-commerce site, increasing user engagement by 40% in the first month
+
 ### BELLABEAT CASE STUDY – Google Data Analytics Capstone Project 	(_Nov 2023_)
 -	Utilized R to analyze 8000 datasets of Bellabeat product: Bella app and analyze smart device fitness data to gain insight into how customers use their devices.
 -	Recommended strategies to Bellabeat executive teams to improve marketing strategies.
